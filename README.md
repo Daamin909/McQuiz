@@ -14,7 +14,4 @@ Connect an Arduino Uno R3 microcontroller to your computer.
 Upload the McQuiz code file to the microcontroller using the Arduino IDE.
 Enjoy the application.
 
-<br>
-<br>
-<br>
-**NOTE** : The application can be run using normal power supply after the code has been run once.
+* NOTE : The application can be run using normal power supply after the code has been run once. 
